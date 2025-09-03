@@ -1,4 +1,4 @@
-# pose_cam.py
+
 import cv2
 import numpy as np
 import argparse
