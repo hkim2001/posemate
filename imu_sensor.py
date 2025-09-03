@@ -1,4 +1,4 @@
-# imu_seung11.py
+
 import asyncio, struct, math, time, sys, signal, contextlib
 import numpy as np
 from collections import deque
