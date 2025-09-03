@@ -1,0 +1,4 @@
+lunge
+no_pose
+pushup
+squat
